@@ -12,11 +12,6 @@ Seeking a **PFE internship** to apply my expertise in **AI, web development**.
 - HCIA in Artificial Intelligence  
 - ISTQB (in progress)  
 
- 🚀 Projects  
-- **Universal Remote Control**: Infrared-based multi-device control.  
-- **Grade Management App**: Showcased at **Gitex Africa**.  
-- **Cyberattack Prediction**: ML model to assess company risks.  
-
  📫 Contact  
 - **Email**: rababmahrache3@gmail.com  
 - **Phone**: +212 693-802-846  
